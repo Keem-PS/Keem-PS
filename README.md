@@ -1,11 +1,6 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Peerawit Sonpong
 ========================================================================================================================================
 
-System Engineer at G-Able Co., Ltd.
------------------------------------
-
-I'm working System Engineer, but have really found a passion for Front-End Developer, I've been leaning to HTML, CSS, JavaScript and Node.js
-
 * 🌍  I'm based in Samut Prakan, Thailand
 
 ### Skills
